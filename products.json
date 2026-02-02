@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Campus 00s",
+    "price": 25,
+    
+    "sizes": [40, 41, 42,44, 45],
+    "colors": [ "black"],
+    "phone": "962788195327",
+    "images": [
+      "images/1/11.jpg",
+      "images/1/12.jpg",
+      "images/1/13.jpg",
+      "images/1/14.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Campus 00s",
+    "price": 25,
+   
+    "sizes": [ 40, 41, 42, 43, 44, 45],
+    "colors": ["green"],
+    "phone": "962788195327",
+    "images": [
+      "images/2/21.jpg",
+      "images/2/22.jpg",
+      "images/2/23.jpg",
+      "images/2/24.jpg"
+    ]
+  }
+  ,
+  {
+    "id": 3,
+    "name": "AIR FORCE ",
+    "price": 25,
+   
+    "sizes": [40, 42, 43, 44],
+    "colors": ["white and black"],
+    "phone": "962788195327",
+    "images": [
+      "images/3/31.jpg",
+      "images/3/32.jpg",
+      "images/3/33.jpg",
+      "images/3/34.jpg"
+    ]
+  }
+
+,
+  {
+    "id": 4,
+    "name": "AIR FORCE ",
+    "price": 25,
+    
+    "sizes": [40, 41, 42 ,44, 45],
+    "colors": [ "black"],
+    "phone": "962788195327",
+    "images": [
+      "images/4/41.jpg",
+      "images/4/42.jpg",
+      "images/4/43.jpg",
+      "images/4/44.jpg"
+    ]
+  }
+
+,
+  {
+    "id": 5,
+    "name": "AIR FORCE ",
+    "price": 25,
+    
+    "sizes": [40,  42],
+    "colors": ["Beige"],
+    "phone": "962788195327",
+    "images": [
+      "images/5/51.jpg",
+      "images/5/52.jpg",
+      "images/5/53.jpg",
+      "images/5/54.jpg"
+    ]
+  }
+
+,
+  {
+    "id": 6,
+    "name": "AIR FORCE ",
+    "price": 25,
+    
+    "sizes": [40, 41, 42, 45],
+    "colors": ["white"],
+    "phone": "962788195327",
+    "images": [
+      "images/6/61.jpg",
+      "images/6/62.jpg",
+      "images/6/63.jpg",
+      "images/6/64.jpg"
+    ]
+  }
+
+
+
+]
